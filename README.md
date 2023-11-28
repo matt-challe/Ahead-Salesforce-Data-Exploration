@@ -1,5 +1,5 @@
 # Ahead-Salesforce-Data-Exploration
-==Goal: Derive valuable business insights from internal AHEAD salesforce data==
+**Goal: Derive valuable business insights from internal AHEAD salesforce data**
 
 ## Predictive Hiring
 
