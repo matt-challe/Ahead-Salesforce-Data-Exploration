@@ -148,12 +148,16 @@
   },
   "active": "c225047340670aac",
   "lastOpenFiles": [
-    "WBS Actuals C/wbs_actuals_c.sql",
-    "WBS Actuals C",
-    "untitled folder",
-    "Opportunity Field History/opportunity_field_history.sql",
-    "Opportunity Field History",
-    "Opportunity/opportunity.sql",
-    "Opportunity"
+    "resources_held_and_opportunities_lost",
+    "wbs_actuals_c/wbs_actuals_c.sql",
+    "wbs_actuals_c",
+    "WBS_actuals_c/wbs_actuals_c.sql",
+    "WBS_actuals_c",
+    "opportunity_field_history/opportunity_field_history.sql",
+    "opportunity_field_history",
+    "opportunity/opportunity.sql",
+    "opportunity",
+    "Resources Held and Opportunities Lost",
+    "untitled folder"
   ]
 }
