@@ -148,6 +148,8 @@
   },
   "active": "c225047340670aac",
   "lastOpenFiles": [
+    "opportunity/opportunity.sql",
+    "opportunity",
     "opportunity_/opportunity.sql",
     "opportunity_",
     "README.md",
@@ -158,8 +160,6 @@
     "resources_held_and_opportunities_lost",
     "wbs_actuals_c/wbs_actuals_c.sql",
     "wbs_actuals_c",
-    "WBS_actuals_c/wbs_actuals_c.sql",
-    "WBS_actuals_c",
-    "opportunity_field_history/opportunity_field_history.sql"
+    "WBS_actuals_c/wbs_actuals_c.sql"
   ]
 }
