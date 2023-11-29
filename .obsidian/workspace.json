@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Exploration.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Exploration.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Exploration.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Exploration.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "768385584cc18519",
+  "active": "65659245c1ce2574",
   "lastOpenFiles": [
+    "Data Exploration.md",
     "projects/wbs_actuals_c.sql",
     "projects",
     "untitled folder",
@@ -155,14 +156,12 @@
     "opportunities/opportunity.sql",
     "opportunities",
     "Untitled.canvas",
-    "Data Exploration.md",
     "README.md",
     "Predictive Hiring.md",
     "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
     "opportunity/opportunity.sql",
     "opportunity",
     "opportunity_/opportunity.sql",
-    "opportunity_",
-    "resources_held_and_opportunities_lost/resources_held_per_role.sql"
+    "opportunity_"
   ]
 }
