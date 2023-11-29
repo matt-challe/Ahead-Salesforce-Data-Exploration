@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c225047340670aac",
+            "id": "65659245c1ce2574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22fdf112082c5d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Predictive Hiring.md",
+                "file": "Data Exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Data Exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Data Exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Data Exploration.md"
               }
             }
           }
@@ -158,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c225047340670aac",
+  "active": "65659245c1ce2574",
   "lastOpenFiles": [
-    "Predictive Hiring.md",
+    "Untitled.canvas",
+    "Data Exploration.md",
     "README.md",
+    "Predictive Hiring.md",
     "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
     "opportunity/opportunity.sql",
     "opportunity",

@@ -13,6 +13,12 @@ Initial considerations about what should be derived from the data.
 [Notebook Page](Predictive%20Hiring.md) 
 ## Data Exploration: Tables and Columns
 
+### Includes
+1. Tables to include from top half of list
+2. Jillian exploratory code
+3. Held resources data exploration
+
+[Notebook Page](Data%20Exploration)
 ## Opportunity
 
 ## Opportunity Field History
