@@ -146,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65659245c1ce2574",
+  "active": "768385584cc18519",
   "lastOpenFiles": [
+    "projects/wbs_actuals_c.sql",
+    "projects",
+    "untitled folder",
+    "opportunities/opportunity_field_history.sql",
+    "opportunities/opportunity.sql",
+    "opportunities",
     "Untitled.canvas",
     "Data Exploration.md",
     "README.md",
@@ -157,11 +163,6 @@
     "opportunity",
     "opportunity_/opportunity.sql",
     "opportunity_",
-    "resources_held_and_opportunities_lost/resources_held_per_role.sql",
-    "resources_held_and_opportunities_lost/Resources held per role.sql",
-    "resources_held_and_opportunities_lost/Resources help per role.sql",
-    "resources_held_and_opportunities_lost",
-    "wbs_actuals_c/wbs_actuals_c.sql",
-    "wbs_actuals_c"
+    "resources_held_and_opportunities_lost/resources_held_per_role.sql"
   ]
 }
