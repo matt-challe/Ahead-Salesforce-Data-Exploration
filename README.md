@@ -1,7 +1,7 @@
 # Ahead-Salesforce-Data-Exploration
 **Goal: Derive valuable business insights from internal AHEAD salesforce data**
 
-_Note: some SQL files are names after the tables they query_
+_Note: some SQL files are named after the tables they query_
 ## Predictive Hiring
 
 Initial considerations about what should be derived from the data. 
