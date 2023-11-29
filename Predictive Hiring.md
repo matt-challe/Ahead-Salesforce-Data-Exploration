@@ -19,7 +19,7 @@
 - 3-5 months of backlog is preferred
 - Target utilization is 76%
 - Two sides of salesforce:
-	- pipeline (opportunities, opportunities products,  / psa - timecards etc)
+	* pipeline (opportunities, opportunities products,  / psa - timecards etc)
 	- sales (projects, utilization, resource)
 - Additional value added info: 
 	- Frequency of data being replicated  
