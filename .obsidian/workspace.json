@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22fdf112082c5d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Predictive Hiring.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
+                "file": "Predictive Hiring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
+                "file": "Predictive Hiring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md"
+                "file": "Predictive Hiring.md"
               }
             }
           }
@@ -146,20 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c225047340670aac",
+  "active": "22fdf112082c5d8a",
   "lastOpenFiles": [
+    "README.md",
+    "Predictive Hiring.md",
+    "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
     "opportunity/opportunity.sql",
     "opportunity",
     "opportunity_/opportunity.sql",
     "opportunity_",
-    "README.md",
-    "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
     "resources_held_and_opportunities_lost/resources_held_per_role.sql",
     "resources_held_and_opportunities_lost/Resources held per role.sql",
     "resources_held_and_opportunities_lost/Resources help per role.sql",
     "resources_held_and_opportunities_lost",
     "wbs_actuals_c/wbs_actuals_c.sql",
-    "wbs_actuals_c",
-    "WBS_actuals_c/wbs_actuals_c.sql"
+    "wbs_actuals_c"
   ]
 }
