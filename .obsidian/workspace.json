@@ -148,6 +148,8 @@
   },
   "active": "65659245c1ce2574",
   "lastOpenFiles": [
+    "\"Gotchas\"/Resource Request History.md",
+    "\"Gotchas\"",
     "README.md",
     "Data Exploration.md",
     "Predictive Hiring.md",
@@ -161,7 +163,6 @@
     "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
     "opportunity/opportunity.sql",
     "opportunity",
-    "opportunity_/opportunity.sql",
-    "opportunity_"
+    "opportunity_/opportunity.sql"
   ]
 }
