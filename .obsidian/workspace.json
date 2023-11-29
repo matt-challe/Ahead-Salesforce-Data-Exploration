@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predictive Hiring.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predictive Hiring.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predictive Hiring.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22fdf112082c5d8a",
+  "active": "c225047340670aac",
   "lastOpenFiles": [
-    "README.md",
     "Predictive Hiring.md",
+    "README.md",
     "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
     "opportunity/opportunity.sql",
     "opportunity",
