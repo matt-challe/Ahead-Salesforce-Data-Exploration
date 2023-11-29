@@ -19,7 +19,7 @@ Initial considerations about what should be derived from the data.
 2. Jillian exploratory code
 3. Held resources data exploration
 
-[Notebook Page](Data%20Exploration)
+[Notebook Page](Data%20Exploration.md)
 ## Opportunity
 
 ## Opportunity Field History
