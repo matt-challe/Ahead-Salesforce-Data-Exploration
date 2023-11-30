@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
+                "file": "utilization/Exploratory Utilization Calculation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
+                "file": "utilization/Exploratory Utilization Calculation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
+                "file": "utilization/Exploratory Utilization Calculation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md"
+                "file": "utilization/Exploratory Utilization Calculation.md"
               }
             }
           }
@@ -158,14 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "768385584cc18519",
+  "active": "65659245c1ce2574",
   "lastOpenFiles": [
+    "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
+    "utilization/Exploratory Utilization Calculation.md",
+    "utilization",
     "Utilization",
     "README.md",
     "Predictive Hiring.md",
     "Data Exploration.md",
     "\"Gotchas\"/Resource Request History.md",
-    "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
     "\"Gotchas\"",
     "projects/wbs_actuals_c.sql",
     "projects",
@@ -174,8 +176,6 @@
     "opportunities/opportunity.sql",
     "opportunities",
     "Untitled.canvas",
-    "opportunity/opportunity.sql",
-    "opportunity",
-    "opportunity_/opportunity.sql"
+    "opportunity/opportunity.sql"
   ]
 }
