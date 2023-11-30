@@ -5,4 +5,6 @@
 2. Is a certain practice holding more resources?
 3. Are specific skills being sought out more than others?
 
+*Note: Currently on hold until the logic for finding the resource requests held is fixed*
+
 
