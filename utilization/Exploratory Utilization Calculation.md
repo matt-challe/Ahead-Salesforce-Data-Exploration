@@ -8,6 +8,9 @@
 ```
 
 ## Query joining all relevant tables:
+
+*Note: Even with filter when the query is not limited there's 111 million rows formed in 11 mins*
+
 ``` sql
 WITH filter AS( --Only checking 2023 to minimize compute resources
     SELECT DATE_PART(YEAR, TO_DATE(created_date)),
@@ -58,7 +61,7 @@ names_and_roles AS(
 )
 SELECT *  FROM names_and_roles
 
-LIMIT 10000;
+LIMIT 500000; --to be able to see stats
 ```
 
 ### Important Columns from Previous Query
