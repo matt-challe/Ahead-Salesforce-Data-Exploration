@@ -88,4 +88,33 @@ LIMIT 500000; --to be able to see stats
 - pse_target_hours_c --float
 - pse_resource_role_c --string
 - pse_held_hours_c --float
+- pse_held_hours_oppz_pct_weighted_c --float
+- pse_calender_hours_c --int
+- pse_assigned_non_billable_hours_c --int
+- pse_assigned_excluded_hours_c --int
+- pse_assigned_credited_hours_c --int
+- pse_assigned_billable_hours_c --int
+- pse_actual_non_billable_hours_c --int
+- pse_actual_exluded_hours_c --int
+- pse_actual_credited_hours_c --int
+- pse_actual_billable_hours_c --int
+- name_4 --acs_scheduled_weekly or acs_historical_monthly_2023_06
+- resource_role_c --string
+- utilization_target_c --int
+- resource_blp_c --float
+- adjusted_utilization_target_c --int
+- pse_utilization_target_hours --float per week most is 30.4 76%(40)
+- pse_scheduled_utilization_target_hours --same same
+- pse_time_period_c_2 --string
+- pse_time_period --string Week or Month
+- pse_template_key_c --int
+- pse_scheduled_start_date_c --string
+- pse_scheduled_end_date_c --string
+- pse_scheduled_calender_hours -- int 40 most of the time
+- pse_scheduled_billable_hours_c --float
+- pse_historical_calender_hours_c --int sometimes 0 sometimes 16
+- pse_historical_billable_hours_c --int sometimes 0 sometimes 8
+- pse_time_period_c --string
+- pse_time_period_types_c --string Week or Month
+- pse_scheduled_utilization_start_date_c --string
 ```
