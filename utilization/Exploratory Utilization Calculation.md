@@ -67,5 +67,25 @@ LIMIT 500000; --to be able to see stats
 ### Important Columns from Previous Query
 
 ```sql
-- pse_pass_through_billings -- sometimes 0 sometimes 614.52
+- pse_pass_through_billings -- floats
+- pse_non_billable_internal_hours_c -- ints
+- pse_non_billable_external_hours_c -- ints
+- pse_invoiced_c -- floats
+- pse_internal_costs_c -- floats
+- pse_external_costs_c -- floats
+- pse_expense_costs_c -- floats
+- pse_excluded_hours_c -- ints
+- pse_credited_non_billable_internal_hours_c --ints
+- pse_billings_c -- floats
+- pse_billed_c -- floats
+- pse_billable_internal_hours_c --floats
+- pse_billable_external_hours_c --floats
+- pse_time_period_c --string
+- pse_resource_c --string
+- name --string
+- pse_time_period_c -- string
+- pse_template_key_c -- int
+- pse_target_hours_c --float
+- pse_resource_role_c --string
+- pse_held_hours_c --float
 ```
