@@ -82,7 +82,7 @@ LIMIT 500000; --to be able to see stats
 - pse_billable_external_hours_c --floats
 - pse_time_period_c --string
 - pse_resource_c --string
-- name --string
+- name_5 --string
 - pse_time_period_c -- string
 - pse_template_key_c -- int
 - pse_target_hours_c --float
@@ -117,4 +117,5 @@ LIMIT 500000; --to be able to see stats
 - pse_time_period_c --string
 - pse_time_period_types_c --string Week or Month
 - pse_scheduled_utilization_start_date_c --string
+- pse_scheduled_utilization_end_date_c --string
 ```
