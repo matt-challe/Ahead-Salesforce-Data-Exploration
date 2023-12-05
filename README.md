@@ -19,7 +19,11 @@ Initial considerations about what should be derived from the data.
 2. Jillian exploratory code
 3. Held resources data exploration
 
-[Notebook Page](Data%20Exploration)
+[Notebook Page](Data%20Exploration.md)
+
+## Gotchas
+
+Check [this]("Gotchas"/Resource%20Request%20History.md) before you query resource request tables.
 ## Opportunity
 
 ## Opportunity Field History

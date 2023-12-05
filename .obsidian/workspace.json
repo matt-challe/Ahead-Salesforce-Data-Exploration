@@ -6,6 +6,7 @@
       {
         "id": "079a89a776af13cd",
         "type": "tabs",
+        "dimension": 38.79598662207358,
         "children": [
           {
             "id": "810ae83cc4deabb0",
@@ -25,6 +26,7 @@
       {
         "id": "0aa305c787414171",
         "type": "tabs",
+        "dimension": 61.20401337792642,
         "children": [
           {
             "id": "1748c6fb876db91e",
@@ -169,6 +171,10 @@
   },
   "active": "810ae83cc4deabb0",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "utilization/Exploratory Utilization Calculation.md",
+    "utilization",
+    "\"Gotchas\"/Resource Request History.md",
     "projects/wbs_actuals_c.sql",
     "projects",
     "opportunities/opportunity_field_history.sql",
@@ -177,13 +183,10 @@
     "Predictive Hiring.md",
     "Data Exploration.md",
     "resources_held_and_opportunities_lost/Resources Held and Opportunities Lost.md",
-    "\"Gotchas\"/Resource Request History.md",
     "\"Gotchas\"",
     "untitled folder",
     "README.md",
     "wbs_actuals_c/wbs_actuals_c.sql",
-    "wbs_actuals_c",
-    "resources_held_and_opportunities_lost/resources_held_per_role.sql",
-    "resources_held_and_opportunities_lost"
+    "wbs_actuals_c"
   ]
 }
