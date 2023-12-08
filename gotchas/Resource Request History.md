@@ -11,7 +11,7 @@
 	- In other cases, a specific person is added, depending on the direction from the delivery manager 
 5. Resources are not officially on a project until they are 'assigned'
 	- 10 days before the project start date on the resource request, the opp team receives an email to validate if the resource on the request should be moved to 'assigned'
-	- 2 days before the project start date, if an existing resource request is not marked as 'assigned' (corresponds to field: pse__Status__c) then the resource request is auto-canceled 
+	- 2 days before the project start date, if an existing resource request is not marked as 'assigned' (corresponds to field: pse__Status_c) then the resource request is auto-canceled 
 6. Resource requests are often manually deleted (not the same as canceled) if the underlying opp is lost, reduced in stage below strong upside, a duplicate, or to clean up a project (even if the request is already canceled)
 	- When a resource request is deleted, it is reflected in the *pse_resource_request_history* table where the field: *pse__Preferred_Schedule_c* changes to 'null', there is no 'deleted' verbiage for tracking 
 1. Nulls in the ahead practice field *usually* indicate the resource request is for a project manager since they are cross-practice

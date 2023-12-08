@@ -391,7 +391,7 @@ final AS (
         ROUND(AVG(CASE 
             WHEN LOWER(new_value) = 'strong upside' THEN close_date - change_created_date
             ELSE NULL
-        END),1) AS strong_upside,
+        END),1) AS strong_upside_avg_days_till_close,
         ROUND(AVG(CASE 
             WHEN LOWER(new_value) LIKE '%commit%' THEN close_date - change_created_date
             ELSE NULL
