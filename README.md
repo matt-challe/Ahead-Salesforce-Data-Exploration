@@ -11,7 +11,9 @@ _Note: some SQL files are named after the tables they query_
 
 [12/20/2023 Presentation Recording](will add later)
 
-[Feedback](will add later)
+**Please fill out the feedback form:**
+
+<iframe width="640px" height="480px" src="https://forms.office.com/r/bqP2gceupb?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 ## Notebooks
 ### Predictive Hiring
 
