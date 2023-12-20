@@ -9,10 +9,9 @@ _Note: some SQL files are named after the tables they query_
 
 [Power BI Report](https://app.powerbi.com/links/m-CCgAspCv?ctid=b81bf60e-b038-4ae8-ba94-41478a2fb402&pbi_source=linkShare&bookmarkGuid=69439633-10f9-4a14-a728-4ebc399d6dd2)
 
-[12/20/2023 Presentation Recording](will add later)
+[12/20/2023 Salesforce Analysis w/ Snowflake Presentation Recording](https://thinkaheadit-my.sharepoint.com/:v:/r/personal/ian_cox_ahead_com/Documents/Recordings/Salesforce%20Analysis%20w_%20Snowflake-20231220_160404-Meeting%20Recording.mp4?csf=1&web=1&e=rdpHW3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 [**Please fill out the feedback form**](https://forms.office.com/r/bqP2gceupb)
-
 
 ## Notebooks
 ### Predictive Hiring
