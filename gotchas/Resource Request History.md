@@ -31,7 +31,7 @@ WHERE resource_id IN (SELECT DISTINCT(pse_resource_c) FROM pse_resource_actuals_
 
 
 [Query Logic Flow (LucidChart)](https://lucid.app/lucidchart/a727e719-70d3-4815-975d-f09325e99b3c/edit?viewport_loc=-1060%2C-145%2C3914%2C2008%2C0_0&invitationId=inv_e66daabf-7632-4e1c-9484-88e55a46928a)
-![[Pasted image 20231207120135.png]]
+![[resources_held_query_logic.png]]
 ##### Logic Gaps (future improvements)
 1. If the resource is changed multiple times on a resource request, only the final resource and their time held is considered  
 2. If a resource is held and released multiple times on the same resource request, only the first OR last hold is considered (first - if the resource has never been changed; last - if the resource has been changed)  
