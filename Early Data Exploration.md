@@ -28,241 +28,146 @@ OPPORTUNITY_FIELD_HISTORY --- history of changes 
 ## Jillian exploratory code:
 ``` sql
 SELECT * 
-
 FROM WBS_ACTUALS_C 
-
 LIMIT 5; 
 
 -- ID, NAME, RATE_CARD_C, ROLE_C, WBS_HOURS_C 
-
 -- the WBS_HOURS per role could be helpful 
-
--- yes 
-
--- need to understand how OPPORTUNITY_C relates to other table. Entity Relationship Diagram? 
-
+-- table is useful
+-- need to understand how OPPORTUNITY_C relates to other table. Entity Relationship Diagram?
 -- what time period were these projects (and WBS hours) assigned for? 
 
 SELECT * 
-
 FROM SERVICES_REQUEST_C 
-
 LIMIT 5; 
-
 -- services request info -- 
-
 ------ maybe, isn't this going to be duplicative of what's in the opportunity table? 
 
 SELECT * 
-
 FROM PSE_UTILIZATION_SUMMARY_C 
-
 LIMIT 5; 
-
 -- ID, hours, non-billable hours 
-
 -- all the PSE data could be useful -- 
-
----------- yes 
+---------- table is useful
 
 SELECT * 
-
 FROM PSE_UTILIZATION_CALCULATION_C 
-
 LIMIT 5; 
-
 -- ID 
-
 ------- look at this one together, am I missing something?  Utlization_detail_c may be helpful? 
 
 SELECT * 
-
 FROM PSE_TIMECARD_C 
-
 LIMIT 5; 
-
 -- hours, revenue contribution 
-
 ------- include status, include project or resource to get practice data 
 
 SELECT * 
-
 FROM PSE_RESOURCE_ACTUALS_C 
-
 LIMIT 5; 
-
 -- billable hours per project -- 
-
 ----------- Doesn't seem accurate 
 
 SELECT * 
-
 FROM PSE_PROJ_C 
-
 LIMIT 5; 
-
 -- alot of metrics -- 
-
 --------- pse_project_stage_c, opportunity_stage_c, pse_planned_hours_c, pse_project_status_c, pse_practice_c 
 
-May be duplicative of opportunities table 
-
+-- May be duplicative of opportunities table 
 SELECT * 
-
 FROM PSE_PRACTICE_C 
-
 LIMIT 5; 
-
 -- utilization by practice -- 
-
 ----------- name may be helpful for PSE_PROJ_C but don't see much else 
 
 SELECT * 
-
 FROM UTILIZATION_SNAPSHOT_C 
-
 LIMIT 5; 
-
 -- every employee's name and their historical utilization and target -- 
-
  -- alot of user information, ticketing information, survey data 
-
 ------ data not updated since 2018 
 
 SELECT * 
-
 FROM PSE_WORK_CALENDAR_C 
-
 LIMIT 5; 
-
 -- is this time cards? -- 
-
 ------- only 2 rows, just shows standard hours per day 
 
 SELECT *  
-
 FROM WBS_TEMPLATE_C 
-
 LIMIT 5; 
-
 -- ID, Name, HOURS_C, PRODUCT_C, BILLING_TYPE_C 
-
 ------- no, only a template 
 
 SELECT * 
-
 FROM WBS_ROLE_SKILL_C 
-
 LIMIT 5; 
-
 -- ID, ROLE_C 
-
 -------- no,  data is given in WBS_ACTUAL_C 
 
 SELECT * 
-
 FROM PSE_TRANSACTION_DELTA_C 
-
 LIMIT 5; 
-
 -- empty -- 
-
 ------- Empty 
 
 SELECT * 
-
 FROM PSE_TRANSACTION_C 
-
 LIMIT 5; 
-
 -- Project, resource, timecard, is billed, etc. 
-
 ------- skip, utilization data is clear enough 
 
 SELECT * 
-
 FROM PSE_TEAM_C; 
-
 -- PSE description, project, team owner 
-
 -------- table is empty 
 
 SELECT * 
-
 FROM PSE_SKILL_CERTIFICATION_ZONE_C; 
-
 -- group, practice, region, certification 
-
 ------- table is empty 
 
 SELECT * 
-
 FROM PSE_SCHEDULE_C 
-
 LIMIT 5; 
-
 -- scheduled hours for the PSE -- 
-
 --------- table is empty 
 
 SELECT * 
-
 FROM PSE_PRACTICE_ACTUALS_C 
-
 LIMIT 5; 
-
 -- utilization, bookings, billings, billable hours, etc. by practice 
-
 ------ duplicative, poor data quality 
 
 SELECT * 
-
 FROM PSE_GROUP_ACTUALS_C 
-
 LIMIT 5; 
-
 -- billable hours by group -- 
-
 ------ poor data quality 
 
 SELECT * 
-
 FROM PSE_FORECAST_WORKSHEET_C 
-
 LIMIT 5; 
-
 -- actuals and forecasts -- 
-
 ------- shows promise but data is incomplete 
 
 SELECT * 
-
 FROM PSE_FORECAST_C 
-
 LIMIT 5; 
-
 -- forecasting upside and downside of opportunities 
-
 --------- no data 
 
 SELECT * 
-
 FROM PSE_BACKLOG_DETAIL_C 
-
 LIMIT 5; 
-
 -- backlog data -- 
-
 ----- poor data quality 
 
 SELECT * 
-
 FROM PROJECT_TRACKER_C 
-
 LIMIT 5; 
-
 -- simpler data with opp stage, planned hours, billable hours, project type, etc. -- 
-
 ------- most recent data is ~1400 days old, no easy way to see which practice is involved 
 
 ```
