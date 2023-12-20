@@ -1,0 +1,1 @@
+Note: A queries and views folder both exist because in some cases the query was modified slightly to  organize the result differently. If the queries folder lacks a view's query, its because the view matches the query exactly and therefore would be duplicative
