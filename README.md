@@ -2,7 +2,18 @@
 **Goal: Derive valuable business insights from internal AHEAD salesforce data**
 
 _Note: some SQL files are named after the tables they query_
-## Predictive Hiring
+
+## Presentation and Report
+
+[Powerpoint presentation](https://thinkaheadit-my.sharepoint.com/:p:/g/personal/habeeba_mansour_ahead_com/EcYcnbFQcZhAvgY-v_geN1EB6QN09nb_15KEeeEGMHjCbA?e=MpbscI)
+
+[Power BI Report](: https://app.powerbi.com/links/m-CCgAspCv?ctid=b81bf60e-b038-4ae8-ba94-41478a2fb402&pbi_source=linkShare&bookmarkGuid=69439633-10f9-4a14-a728-4ebc399d6dd2)
+
+[12/20/2023 Presentation Recording](will add later)
+
+[Feedback](will add later)
+## Notebooks
+### Predictive Hiring
 
 Initial considerations about what should be derived from the data. 
 ### Includes 
@@ -12,7 +23,7 @@ Initial considerations about what should be derived from the data.
 4. Meeting Notes
 
 [Notebook Page](Predictive%20Hiring.md) 
-## Data Exploration: Tables and Columns
+### Data Exploration: Tables and Columns
 
 ### Includes
 1. Tables to include from top half of list
@@ -21,20 +32,20 @@ Initial considerations about what should be derived from the data.
 
 [Notebook Page](Data%20Exploration.md)
 
-## Gotchas
+### Gotchas
 
 Check [this]("Gotchas"/Resource%20Request%20History.md) before you query resource request tables.
-## Opportunity
+### Opportunity
 
-## Opportunity Field History
+### Opportunity Field History
 
-## WBS Actuals C
+### WBS Actuals C
 
-## Resources Held and Opportunities Lost
+### Resources Held and Opportunities Lost
 
-## Query Ideas
+### Query Ideas
 
-## Spatial Analysis
+### Spatial Analysis
 
 
 
