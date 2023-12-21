@@ -1,7 +1,7 @@
 # Ahead-Salesforce-Data-Exploration
 **Goal: Derive valuable business insights from internal AHEAD salesforce data**
 
-_Note: some SQL files are named after the tables they query_ and .md files are best view in Obsidian
+_Note: some SQL files are named after the main tables they query and .md files are best viewed in Obsidian
 
 ## Presentation and Report
 
