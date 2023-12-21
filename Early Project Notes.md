@@ -25,9 +25,9 @@
 	- Frequency of data being replicated  
 	- Descriptive analytics of dataset
 
-## Salesforce Dashboard 
+## Existing Salesforce Dashboard 
 
-[Link]([https://thinkahead.lightning.force.com/lightning/r/Dashboard/01Z4u000001G2e8EAC/view](https://thinkahead.lightning.force.com/lightning/r/Dashboard/01Z4u000001G2e8EAC/view)) to Dashboard (Request access to Data from IT and tag Hysam)
+[Link]([https://thinkahead.lightning.force.com/lightning/r/Dashboard/01Z4u000001G2e8EAC/view](https://thinkahead.lightning.force.com/lightning/r/Dashboard/01Z4u000001G2e8EAC/view)]) to Dashboard (Request access to Data from IT and tag Hysam)
 
 ## Meeting Notes
 
