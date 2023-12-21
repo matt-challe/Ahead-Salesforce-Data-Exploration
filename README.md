@@ -14,39 +14,35 @@ _Note: some SQL files are named after the tables they query_ and .md files are b
 [**Please fill out the feedback form**](https://forms.office.com/r/bqP2gceupb)
 
 ## Notebooks
-### Predictive Hiring
+### Early Project Notes
 
 Initial considerations about what should be derived from the data. 
 ### Includes 
 1. Questions to be answered
-2. Notes
+2. Notes/considerations
 3. [Salesforce Dashboard](https://thinkahead.lightning.force.com/lightning/r/Dashboard/01Z4u000001G2e8EAC/view)
-4. Meeting Notes
+4. Early Meeting Notes
 
-[Notebook Page](Predictive%20Hiring.md) 
-### Data Exploration: Tables and Columns
+[Notebook Page](Early Project Notes.md) 
+### Early Data Exploration: Tables and Columns
 
 ### Includes
 1. Tables to include from top half of list
 2. Jillian exploratory code
 3. Held resources data exploration
 
-[Notebook Page](Data%20Exploration.md)
+[Notebook Page](Early Data Exploration.md)
 
-### Gotchas
+### Research, Queries, and Views that Support the PowerBI dashboard
 
 Check [this]("Gotchas"/Resource%20Request%20History.md) before you query resource request tables.
-### Opportunity
+### Opportunities
+Check [this](opportunities) out
 
-### Opportunity Field History
+### Resources
+Check [this](resources) out
 
-### WBS Actuals C
 
-### Resources Held and Opportunities Lost
-
-### Query Ideas
-
-### Spatial Analysis
 
 
 
