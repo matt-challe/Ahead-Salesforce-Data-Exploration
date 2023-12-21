@@ -1,8 +1,7 @@
 # Ahead-Salesforce-Data-Exploration
 **Goal: Derive valuable business insights from internal AHEAD salesforce data**
 
-
-## Presentation and Report
+## Deliverables
 
 [Powerpoint presentation](https://thinkaheadit-my.sharepoint.com/:p:/g/personal/habeeba_mansour_ahead_com/EcYcnbFQcZhAvgY-v_geN1EB6QN09nb_15KEeeEGMHjCbA?e=MpbscI)
 
@@ -13,9 +12,9 @@
 [**Please fill out the feedback form**](https://forms.office.com/r/bqP2gceupb)
 
 
-## Research, Queries, and Views that Support the PowerBI dashboard
-_Note: supporting research and additional queries documented will be found in "queries" and "supporting docs"_
-_Note: some SQL files are named after the main tables they query, .md files are best viewed in Obsidian, and .sql are best viewed in VS Code_
+## Research, Queries, and Views that support the PowerBI dashboard
+- _Note: supporting research and additional queries documented will be found in "queries" and "supporting docs". If a view was minimally changed from its original base query, that query is not included in "queries."_
+- _Note: some SQL files are named after the main tables they query, .md files are best viewed in Obsidian, and .sql are best viewed in VS Code_
 
 ### Opportunities
 Found [here](opportunities)
@@ -35,6 +34,7 @@ Found [here](resources)
 
 ## Notebooks
 ### Early Project Notes
+[Found here](Early%20Project%20Notes.md) 
 
 Initial considerations about what should be derived from the data. 
 #### Includes 
@@ -43,17 +43,15 @@ Initial considerations about what should be derived from the data.
 3. [Salesforce Dashboard](https://thinkahead.lightning.force.com/lightning/r/Dashboard/01Z4u000001G2e8EAC/view)
 4. Early Meeting Notes
 
-[Notebook Page](Early%20Project%20Notes.md) 
-
-
 ### Early Data Exploration: Tables and Columns
+[Found here](Early%20Data%20Exploration.md)
 
 #### Includes
-1. Tables to include from top half of list
+1. Light table cataloging
 2. Jillian exploratory code
 3. Held resources data exploration
 
-[Notebook Page](Early%20Data%20Exploration.md)
+
 
 
 
