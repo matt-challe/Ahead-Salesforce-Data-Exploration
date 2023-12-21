@@ -27,7 +27,7 @@
 
 ## Existing Salesforce Dashboard 
 
-[Link to Dashboard](https://thinkahead.lightning.force.com/lightning/r/Dashboard/01Z4u000001G2e8EAC/view](https://thinkahead.lightning.force.com/lightning/r/Dashboard/01Z4u000001G2e8EAC/view)
+[Link to Dashboard](https://thinkahead.lightning.force.com/lightning/r/Dashboard/01Z4u000001G2e8EAC/view)
 
 ## Meeting Notes
 
@@ -39,5 +39,5 @@
 		- Open reqs (open headcount, someone left, expanding group)
 
 - **10/9:** 
-	- Download powerBI and see snapshot from Nate Muth 
+	- Download powerBI, check existing Nate Muth report
 	- Start from the top of the salesforce data
