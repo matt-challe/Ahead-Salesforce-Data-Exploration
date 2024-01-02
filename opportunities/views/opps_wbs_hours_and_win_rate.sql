@@ -15,4 +15,5 @@ SELECT
     * 
 FROM opps_w_wbs
 FULL OUTER JOIN opp_win_percentage_by_practice USING (ahead_practice, year_opp_closed, quarter_opp_closed)
+WHERE year_opp_closed IS NOT NULL AND quarter_opp_closed IS NOT NULL
 ORDER BY ahead_practice, year_opp_closed, quarter_opp_closed;
