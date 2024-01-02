@@ -18,7 +18,7 @@ WITH num_days_to_close AS (
     FROM salesforce_database.salesforce.opportunity
     WHERE is_closed = TRUE AND is_won = TRUE
         AND days_to_close > 1
-        AND DATEDIFF(YEAR, opp_close_date, CURRENT_DATE()) <= 3 AND DATE_PART(YEAR, opp_close_date) >= 2021 AND opp_close_date <= CURRENT_DATE()
+        AND DATEDIFF(YEAR, opp_close_date, CURRENT_DATE()) <= 2 AND opp_close_date <= CURRENT_DATE()
 ),
 -- aggregate ahead practices
 agg_ahead_practice AS (

@@ -19,7 +19,7 @@ WITH staging AS (
         wbs_hours_c AS hours
     FROM salesforce_database.salesforce.opportunity AS opp
     LEFT JOIN salesforce_database.salesforce.wbs_actuals_c AS wbs ON wbs.opportunity_c = opp.id
-    WHERE DATEDIFF(YEAR, opp_close_date, CURRENT_DATE()) <= 3 AND DATE_PART(YEAR, opp_close_date) >= 2021 AND opp_close_date <= CURRENT_DATE()
+    WHERE DATEDIFF(YEAR, opp_close_date, CURRENT_DATE()) <= 2 AND opp_close_date <= CURRENT_DATE()
         AND hours != 0 AND is_won = TRUE AND is_closed = TRUE
     ORDER BY opportunity_id 
 ),

@@ -34,7 +34,7 @@ WITH staging AS (
             ELSE 'Null'
         END AS ahead_practice 
     FROM salesforce_database.salesforce.opportunity AS opp
-    WHERE DATEDIFF(YEAR, opp_close_date, CURRENT_DATE()) <= 3 AND DATE_PART(YEAR, opp_close_date) >= 2021 AND opp_close_date <= CURRENT_DATE()
+    WHERE DATEDIFF(YEAR, opp_close_date, CURRENT_DATE()) <= 2 AND opp_close_date <= CURRENT_DATE()
 ),
 -- count number of closed opps, grouped by year and quarter
 denominator AS (

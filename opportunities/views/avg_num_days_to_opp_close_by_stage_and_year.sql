@@ -26,7 +26,7 @@ WITH staging AS (
     INNER JOIN salesforce_database.salesforce.opportunity AS opp ON opp_history.opportunity_id = opp.id
     WHERE is_closed = TRUE AND is_won = TRUE
         AND total_days_to_close > 1 AND LOWER(field) = 'stagename'
-        AND DATEDIFF(YEAR, opp_close_date, CURRENT_DATE()) <= 3 AND DATE_PART(YEAR, opp_close_date) >= 2021 AND opp_close_date <= CURRENT_DATE()
+        AND DATEDIFF(YEAR, opp_close_date, CURRENT_DATE()) <= 2 AND opp_close_date <= CURRENT_DATE()
     QUALIFY ROW_NUMBER() OVER (PARTITION BY opportunity_id, TO_DATE(change_created_date_and_time) ORDER BY    change_created_date_and_time DESC) = 1
 ),
 --(DATE_PART(YEAR, CURRENT_DATE()) - DATE_PART(YEAR, opp_close_date))
